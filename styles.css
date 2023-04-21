@@ -1,7 +1,9 @@
-body {background-color: coral;}
-#id1 {
+body {background-color: rgba(80, 200, 255, 0.24);}
+#id1 {    
+     margin-left:4em;
+    
     color:blue;
 }
 .Header2{
-    color:blueviolet;
+    color:rgb(226, 43, 43);
 }
