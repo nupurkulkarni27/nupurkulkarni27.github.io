@@ -1,15 +1,13 @@
-body {background-color: rgba(80, 200, 255, 0.24);}
+body {background-color:rgba(192,192,192,0.3);}
 #id1 {    
      margin-left:12em;
-     font-family: "Lucida Console", "Courier New", monospace;
+     font-family: "Fantasy", "Copperplate", monospace;
      font-size: 40px;
-     outline-style: groove;
-     outline-color: rgb(199, 54, 54);
-    color:rgb(255, 0, 0);
+     color:rgb(255, 0, 0);
 }
 .Header2{
     font-family: "Times New Roman", Times, serif;
-    font-size: 20px;
+    font-size: 30px;
     margin-left:5em;
     color:rgb(80, 43, 226);
 }
@@ -17,15 +15,16 @@ body {background-color: rgba(80, 200, 255, 0.24);}
 #id2 {  
     font-family: "Times New Roman", Times, serif;  
     margin-left:6em;
-    font-size: 15px;
+    font-size: 20px;
    
    color:rgb(255, 0, 0);
 }
 
 #id3 { 
     font-family: "Times New Roman", Times, serif;   
+    list-style-type: square;
     margin-left:6em;
-    font-size: 15px;
+    font-size: 20px;
    color:rgb(255, 0, 0);
 }
 
