@@ -1,7 +1,7 @@
 body {background-color:rgba(192,192,192,0.3);}
 #id1 {    
      margin-left:12em;
-     font-family: 'Brush Script MT', cursive;
+     font-family: "Brush Script MT", cursive;
      font-size: 40px;
      
 }
@@ -15,15 +15,13 @@ body {background-color:rgba(192,192,192,0.3);}
 #id2 {  
     font-family: "Times New Roman", Times, serif;  
     margin-left:6em;
-    font-size: 20px;
-   
+    font-size: 20px;   
    color:rgb(80, 43, 226);
 }
 #id4 {  
     font-family: "Times New Roman", Times, serif;  
     margin-left:6em;
-    font-size: 20px;
-   
+    font-size: 20px;   
    color:rgb(0, 106, 255);
 }
 
