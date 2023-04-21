@@ -1,9 +1,23 @@
 body {background-color: rgba(80, 200, 255, 0.24);}
 #id1 {    
-     margin-left:4em;
+     margin-left:12em;
     
-    color:blue;
+    color:rgb(255, 0, 0);
 }
 .Header2{
-    color:rgb(226, 43, 43);
+    margin-left:6em;
+    color:rgb(80, 43, 226);
 }
+
+#id2 {    
+    margin-left:6em;
+   
+   color:rgb(255, 0, 0);
+}
+
+#id3 {    
+    margin-left:6em;
+   
+   color:rgb(255, 0, 0);
+}
+
