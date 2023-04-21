@@ -1,9 +1,9 @@
 body {background-color:rgba(192,192,192,0.3);}
 #id1 {    
      margin-left:12em;
-     font-family: "Fantasy", "Copperplate";
+     font-family: 'Brush Script MT', cursive;
      font-size: 40px;
-     color:rgb(11, 11, 11);
+     
 }
 .Header2{
     font-family: "Times New Roman", Times, serif;
@@ -17,7 +17,14 @@ body {background-color:rgba(192,192,192,0.3);}
     margin-left:6em;
     font-size: 20px;
    
-   color:rgb(255, 0, 0);
+   color:rgb(80, 43, 226);
+}
+#id4 {  
+    font-family: "Times New Roman", Times, serif;  
+    margin-left:6em;
+    font-size: 20px;
+   
+   color:rgb(0, 106, 255);
 }
 
 #id3 { 
@@ -26,5 +33,13 @@ body {background-color:rgba(192,192,192,0.3);}
     margin-left:5em;
     font-size: 20px;
    color:rgb(255, 0, 0);
+}
+
+#id4 {  
+    font-family: "Times New Roman", Times, serif;  
+    margin-left:6em;
+    font-size: 20px;
+   
+   color:rgb(0, 106, 255);
 }
 
